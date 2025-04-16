@@ -1,2 +1,2 @@
-# netology_nlp__hw
+# netology_nlp_hw
 Natural Lnguage Processing
