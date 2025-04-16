@@ -1,2 +1,2 @@
 # netology_nlp_hw
-Natural Lnguage Processing
+Natural Language Processing (homeworks)
